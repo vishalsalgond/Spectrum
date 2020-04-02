@@ -24,3 +24,32 @@
 - **Password Reset** : Users will be able to fill out a form with their email and have a unique token sent to them, and if their token is verified then they will be able to create a new password.
 
 ## Screenshots of the Website : 
+
+### Home Page:
+
+![](/media/readme_images/home.JPG)
+
+
+### Sign Up Page:
+
+![](/media/readme_images/signup.JPG)
+
+
+### Login Page:
+
+![](/media/readme_images/login.JPG)
+
+
+### Profile Page:
+
+![](/media/readme_images/profile.JPG)
+
+
+### Sample Post:
+
+![](/media/readme_images/samplepost.JPG)
+
+
+
+
+# Thank You!
