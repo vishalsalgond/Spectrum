@@ -1,5 +1,7 @@
 # Spectrum - A full featured blog website.
 
+[![](https://img.shields.io/badge/Made_with-Django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
+
 ## Technologies used:-
 
 ### Front-end:
