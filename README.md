@@ -11,7 +11,7 @@
 - Django
 
 ### Database:
-- Django ORM
+- sqlite3
 
 ## Features of the website
 
